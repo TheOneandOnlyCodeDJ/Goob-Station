@@ -30,7 +30,7 @@
 - type: entity
   parent: [ClothingHeadsetAlt, BaseCentcommContraband] # Goobstation
   id: ClothingHeadsetAltCentCom
-  name: centcomm over-ear headset
+  name: CentComm over-ear headset
   components:
   - type: ContainerFill
     containers:

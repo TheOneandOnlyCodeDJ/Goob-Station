@@ -435,7 +435,7 @@
 - type: entity
   parent: [ ClothingMaskGas, BaseCentcommContraband ]
   id: ClothingMaskGasERT
-  name: ert gas mask
+  name: ERT gas mask
   description: The gas mask of the elite squad of the ERT.
   components:
   - type: Sprite

@@ -1,5 +1,5 @@
 - type: entity
-  name: Chester
+  name: chester
   parent: [ BaseWeaponRifle, BaseGunWieldable, BaseCentcommContraband ]
   id: WeaponLeverChester
   description: An improved lever-action rifle designed to fire specialized .45 caliber ammunition for rapid threat removal.
